@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @felixbarwuah
-- 👀 I’m interested in basic python coding challenges
+- 👀 I recently started coding and grateful for every kind of tips and tricks
 - 📫 How to reach me felixkleiner96@gmail.com
 
 <!---
